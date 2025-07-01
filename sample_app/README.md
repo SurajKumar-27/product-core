@@ -75,3 +75,5 @@ making changes for components
 
 making changes in the readme file
 
+adding the admin page for the product
+
