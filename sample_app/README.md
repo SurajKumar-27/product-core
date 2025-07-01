@@ -75,3 +75,4 @@ making changes for components
 
 making changes in the readme file
 
+adding the catelog pages into the product
