@@ -75,5 +75,9 @@ making changes for components
 
 making changes in the readme file
 
+<<<<<<< HEAD
 adding the admin page for the product
 
+=======
+adding the catelog pages into the product
+>>>>>>> catelog_pages
