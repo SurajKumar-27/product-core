@@ -71,3 +71,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 adding the requried changes in the file for support
+
+
+adding this text for support of v2.x
